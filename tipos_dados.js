@@ -19,4 +19,10 @@ console.log('Desconto atualizado: ' + desconto)
 //Array (lista)
 let tamanhos = ['P', 'M', 'G', 'GG']
 //console.log(tamanhos) // P,M,G,GG         
-const numero_1
+let temPet = false;
+
+const idade = 42;
+
+let dataCadastro = new Date(); //pega a data atual do sistema
+console.log(dataCadastro) 
+
